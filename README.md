@@ -12,6 +12,8 @@ You can download the project files from the
 [Releases](https://github.com/joonkim0625/fuzzball-ghidrascript/releases/tag/v0.1.0)
 page.
 
+You can find the system requirements for this project in the [Releases](https://github.com/joonkim0625/fuzzball-ghidrascript/releases/tag/v0.1.0) page.
+
 Explore the project documentation at
 [https://joonkim0625.github.io/fuzzball-ghidrascript-docs/](https://joonkim0625.github.io/fuzzball-ghidrascript-docs/)
 for detailed information on installation and usage.
