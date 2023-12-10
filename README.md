@@ -1,13 +1,20 @@
-# FuzzBALL Ghidra Script
+# FuzzBALL-GhidraScript
 
-This project, conducted under the supervision of Professor McCamant at the
-University of Minnesota, is on a mission to elevate the accessibility of
-FuzzBALL, a powerful symbolic execution tool for binary code available on
-GitHub at
-[https://github.com/bitblaze-fuzzball/fuzzball](https://github.com/bitblaze-fuzzball/fuzzball).
-In focusing on two pivotal aspects, we aim to make FuzzBALL more user-friendly
-and relevant to a broader audience.
+This project is dedicated to enhancing the accessibility of FuzzBALL, a powerful
+symbolic execution tool for binary code available on GitHub at
+[bitblaze-fuzzball/fuzzball](https://github.com/bitblaze-fuzzball/fuzzball). By
+focusing on two key aspects, we aim to make FuzzBALL more user-friendly and
+applicable to a wider audience.
 
-You can check out the documentation of this project at [https://joonkim0625.github.io/fuzzball-ghidrascript-docs/](https://joonkim0625.github.io/fuzzball-ghidrascript-docs/)
+## Getting Started
+
+You can download the project files from the
+[Releases](https://github.com/joonkim0625/fuzzball-ghidrascript/releases/tag/v0.1.0)
+page.
+
+Explore the project documentation at
+[https://joonkim0625.github.io/fuzzball-ghidrascript-docs/](https://joonkim0625.github.io/fuzzball-ghidrascript-docs/)
+for detailed information on installation and usage.
+
 
 
